@@ -1,0 +1,4 @@
+scikit-learn
+stackoverflow.com
+https://chrisalbon.com/python/data_wrangling/pandas_create_column_with_loop/
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.add.html
